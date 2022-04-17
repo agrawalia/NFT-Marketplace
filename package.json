@@ -1,0 +1,19 @@
+{
+  "name": "nft-marketplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrawalia/NFT-Marketplace.git"
+  },
+  "author": "Ishan, Chetan, Shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agrawalia/NFT-Marketplace/issues"
+  },
+  "homepage": "https://github.com/agrawalia/NFT-Marketplace#readme"
+}
